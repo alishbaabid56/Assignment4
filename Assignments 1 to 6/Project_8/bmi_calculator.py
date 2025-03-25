@@ -45,7 +45,7 @@ def main():
     if 'bmi_history' not in st.session_state:
         st.session_state.bmi_history = []
 
-    st.title("Enhanced BMI Calculator")
+    st.title(" BMI Calculator")
     
     # Sidebar
     with st.sidebar:
